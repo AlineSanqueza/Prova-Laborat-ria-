@@ -1,0 +1,35 @@
+.titulo {
+    font: bold;
+    font-size: 16pt;
+    color:rgb(96, 96, 168);
+    text-align: center;
+}
+.respostas {
+    display: inline-block;
+    width: 30%;
+    border: 2px solid rgb(96, 96, 168);
+    height: 500px;
+    text-align: center;
+       }
+h2 {
+    border: 1px solid rgb(96,96,168);
+    text-align: center;
+    }
+#nome {
+    font: bold;
+    font-size: 16pt;
+    color: black;
+    text-align: center;
+    }
+.resultados {
+    font: bold;
+    font-size: 16pt;
+    color: black;
+    text-align: center;
+}
+#desejo {
+    font: bold;
+    font-size: 16pt;
+    color:red;
+    text-align: center;
+    }
